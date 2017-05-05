@@ -13,6 +13,7 @@ index.html
 from there click on "Cam's Pizzeria"
 
 #### Part 1: Increasing Optimize PageSpeed Insights score for index.html
+- Put this on a server to get the insights so I used gitHub pages to get a score
 - Inlined CSS
 - compressed, localized, and resized photos using GIMP
 - used the async attribute on the script tags
